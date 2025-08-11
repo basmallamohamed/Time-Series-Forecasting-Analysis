@@ -2,10 +2,10 @@
 # Walmart Sales Forecasting Analysis
 
 ## Overview
-- **PThis project analyzes the Walmart Sales Forecast dataset (Feb 2010-Nov 2012) from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast), cleaned and aggregated into monthly sales using Python (`pandas`, `matplotlib`, `statsmodels`, `kagglehub`). It features visualizations (Line and Clustered Column, Stacked Area, Pie, Scatter, Stacked Bar) and an interactive Power BI dashboard with DAX measures and slicers for insights into sales trends, store types, and economic factors.
+- **This project analyzes the Walmart Sales Forecast dataset (Feb 2010-Nov 2012) from [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast), cleaned and aggregated into monthly sales using Python (`pandas`, `matplotlib`, `statsmodels`, `kagglehub`). It features visualizations (Line and Clustered Column, Stacked Area, Pie, Scatter, Stacked Bar) and an interactive Power BI dashboard with DAX measures and slicers for insights into sales trends, store types, and economic factors.
 
 ## Dashboard Screenshot
-[Walmart Time Series Sales Dashboard](Visuals/TimeSeries.jpg)
+![Walmart Time Series Sales Dashboard](Visuals/TimeSeries.jpg)
 
 ## Requirements
 - **Installation**: Install Python packages with:
@@ -45,5 +45,3 @@
 - **Visualizations**: Run Python scripts to regenerate plots.
 - **Dashboard**: Open `TimeSaries.pbix` in Power BI Desktop for interactive analysis.
 - **Data Updates**: Modify scripts to refresh or add new aggregations.
-
-This `README.md` provides a clear overview and instructions for your project. Let me know if you need help uploading the image or adjusting the content!
